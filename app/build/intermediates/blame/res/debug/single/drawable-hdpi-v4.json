@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidWorkSpace\\QQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidWorkSpace\\QQ\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\QQ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.jpg",
+        "source": "E:\\AndroidWorkSpace\\QQ\\app\\src\\main\\res\\drawable-hdpi\\splash.jpg"
+    }
+]
